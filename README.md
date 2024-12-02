@@ -1,1 +1,1 @@
-This project is Book Recommender implents Machine Learning
+This project is Book Recommender implements Machine Learning
